@@ -37,4 +37,11 @@ Choose one phone to be the Robot Controller, and one to be the Driver Station. L
 5. Look at RC phone, accept the Invitation there. In rare cases, the Invite prompt is underneath any open windows on the RC phone. Pairing will happen within seconds.
 
 ### 4. Connect Computer to Driver Station
-
+1. Click on the 3 dots in the upper right hand corner of the Driver Station app.
+2. Select *Program and Manage* from the dropdown.
+3. On your laptop connect to the WiFi network listed in the *Robot Controller Connection Info* and enter the password
+4. On your laptop go to the web address in the *Robot Controller Connection Info*
+5. Click on *OnBot Java at the top of the screen
+6. In the project browser pane, press the *+* symbol to create a new file
+   - Name the file ControlledMain or really whatever you want to identify it with. I call it ControlledMain since this guide is about creating a driver controlled OP mode.
+   - 
